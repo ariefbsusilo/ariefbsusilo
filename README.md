@@ -1,38 +1,45 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20[NAMA%20KAMU]&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Visual%20Storyteller&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29&height=300&section=header&text=DATA%20x%20VISION&fontSize=70&fontAlignY=40&desc=Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Creative&descAlignY=60&descAlign=50" width="100%" alt="Header" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=35F2AF&center=true&vCenter=true&width=435&lines=Building+AI+that+sees+the+world;Automating+the+boring+stuff;Analyzing+IHSG+Market+Trends;Capturing+Moments+through+Lens" alt="Typing SVG" />
-  </a>
-
-  <br/><br/>
-
-  <p align="center" width="80%">
-    <b>Exploring the intersection of Artificial Intelligence and Visual Arts.</b><br/>
-    Saya seorang Engineer dengan pengalaman 3 tahun di <i>Machine Learning</i> dan 5 tahun di Fotografi.<br/>
-    Saat ini fokus mengembangkan solusi <i>Computer Vision</i> (CCTV Automation) dan Analisa Saham Algoritmik.
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=0e75b6&style=flat" alt="nama-kamu" />
   </p>
+</div>
 
-  <br/>
+<h3 align="center">👋 About Me</h3>
+<p align="center">
+   I'm a Data Scientist & Photographer with a passion for building intelligent systems.
+   <br>
+   🔭 <b>Currently working on:</b> Computer Vision for CCTV & Stock Market Prediction (IHSG).
+   <br>
+   🌱 <b>Learning:</b> Advanced Deep Learning & Algorithmic Trading.
+   <br>
+   📸 <b>Hobbies:</b> Capturing moments through my lens & automating boring tasks.
+</p>
 
-  <h3>⚡ Tech Stack & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,selenium,mysql,git,vscode,ps,lr&perline=10" />
+<br/>
 
-  <br/><br/>
+<h3 align="center">🛠 Technology Stack</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" />
+</div>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="languages graph" />
-  </div>
+<br/>
 
-  <br/>
+<h3 align="center">📊 My Github Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+</div>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME_GITHUB&theme=tokyonight" />
+<br/>
 
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Connect-Linkedin-blue?style=for-the-badge&logo=linkedin" />
-  <img src="https://img.shields.io/badge/Portfolio-Instagram-E4405F?style=for-the-badge&logo=instagram" />
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=radical&hide_border=true" alt="streak stats" />
 </div>
