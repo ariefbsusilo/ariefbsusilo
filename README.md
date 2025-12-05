@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Arief B Susilo&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Visual%20Storyteller&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Arief%20B%20Susilo&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Visual%20Storyteller&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=USERNAME_GITHUB&label=Profile%20Views&color=0e75b6&style=flat" alt="nama-kamu" />
+    <img src="https://komarev.com/ghpvc/?username=ariefbsusilo&label=Profile%20Views&color=0e75b6&style=flat" alt="nama-kamu" />
   </p>
 </div>
 
@@ -34,12 +34,12 @@
 
 <h3 align="center">📊 My Github Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ariefbsusilo&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefbsusilo&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB&theme=radical&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariefbsusilo&theme=radical&hide_border=true" alt="streak stats" />
 </div>
