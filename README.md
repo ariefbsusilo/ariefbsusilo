@@ -32,18 +32,13 @@
 
 <br/>
 
-<h3 align="center">📈 Activity & Analytics</h3>
-
+<h3 align="center">📈 Coding Activity</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariefbsusilo&bg_color=0f0c29&color=35F2AF&line=35F2AF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefbsusilo&layout=compact&theme=radical&hide_border=true&langs_count=8&v=1" height="180" alt="languages" />
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ariefbsusilo&show_icons=true&theme=radical&hide_border=true&v=1" height="180" alt="stats" />
 </div>
+<br/>
 
+<h3 align="center">🔥 Consistency</h3>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariefbsusilo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="streak" />
 </div>
