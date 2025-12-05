@@ -10,9 +10,9 @@
 <p align="center">
    I'm a Data Scientist & Photographer with a passion for building intelligent systems.
    <br>
-   🔭 <b>Currently working on:</b> Computer Vision for CCTV & Stock Market Prediction (IHSG).
+   🔭 <b>Currently working on:</b> PT YAMAHA INDONESIA MOTOR MFG.
    <br>
-   🌱 <b>Learning:</b> Advanced Deep Learning & Algorithmic Trading.
+   🌱 <b>Learning:</b> Advanced Deep Learning & AI Engineer.
    <br>
    📸 <b>Hobbies:</b> Capturing moments through my lens & automating boring tasks.
 </p>
