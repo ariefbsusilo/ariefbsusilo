@@ -10,7 +10,7 @@
 <p align="center">
    I'm a Data Scientist & Photographer with a passion for building intelligent systems.
    <br>
-   🔭 <b>Currently working on:</b> PT YAMAHA INDONESIA MOTOR MFG.
+   🔭 <b>Currently working on:</b> AI system Automation.
    <br>
    🌱 <b>Learning:</b> Advanced Deep Learning & AI Engineer.
    <br>
