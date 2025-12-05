@@ -39,7 +39,11 @@
   
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariefbsusilo&theme=2077" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefbsusilo&layout=compact&theme=radical&hide_border=true&langs_count=8&v=1" height="180" alt="languages" />
 
+  <img src="https://github-readme-stats.vercel.app/api?username=ariefbsusilo&show_icons=true&theme=radical&hide_border=true&v=1" height="180" alt="stats" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariefbsusilo&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="streak" />
 </div>
