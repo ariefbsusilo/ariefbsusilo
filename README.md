@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Arief%20B%20Susilo&fontSize=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Visual%20Storyteller&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ariefbsusilo&label=Profile%20Views&color=0e75b6&style=flat" alt="nama-kamu" />
+    <img src="https://komarev.com/ghpvc/?username=ariefbsusilo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
 </div>
 
