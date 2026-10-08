@@ -28,7 +28,7 @@ from dataclasses import dataclass, field
 @dataclass
 class AriefBSusilo:
     role: tuple = ("AI Engineer", "Data Scientist", "Photographer")
-    location: str = "Indonesia 🇮🇩"
+    location: str = "Yogyakarta, Indonesia 🇮🇩"
 
     currently_building: str = "AI System Automation 🤖"
     currently_learning: list = field(default_factory=lambda: [
@@ -99,7 +99,10 @@ print(me.mission())
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ariefbsusilo&bg_color=0d1117&color=35F2AF&line=7B61FF&point=35F2AF&area=true&area_color=7B61FF&hide_border=true&custom_title=Training%20Loss%20%E2%86%93%20%C2%B7%20Commits%20%E2%86%91" width="100%" alt="Activity Graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariefbsusilo/ariefbsusilo/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ariefbsusilo/ariefbsusilo/output/snake-light.svg" width="100%" alt="Contribution snake — gradient descent on my commit graph" />
+</picture>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariefbsusilo&theme=tokyonight&hide_border=true&background=0d1117&ring=35F2AF&fire=7B61FF&currStreakLabel=35F2AF&sideLabels=00D4FF&dates=8b949e&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="Streak stats" />
 
