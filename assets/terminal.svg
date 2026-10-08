@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="100%">
+<defs><linearGradient id="hb" x1="0" x2="1"><stop offset="0" stop-color="#35F2AF"/><stop offset=".5" stop-color="#00D4FF"/><stop offset="1" stop-color="#7B61FF"/></linearGradient></defs>
+<style>
+.m{font:13.5px 'JetBrains Mono','Fira Code',Consolas,monospace;white-space:pre}
+.ln{opacity:0;animation:in 9s ease-out infinite}
+@keyframes in{0%{opacity:0;transform:translateX(-6px)}6%{opacity:1;transform:none}90%{opacity:1}100%{opacity:0}}
+.c{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+</style>
+<rect x="1" y="1" width="898" height="298" rx="12" fill="#0d1117" stroke="url(#hb)" stroke-width="1.5"/>
+<rect x="1" y="1" width="898" height="36" rx="12" fill="#161b22"/>
+<rect x="1" y="24" width="898" height="13" fill="#161b22"/>
+<circle cx="24" cy="19" r="6" fill="#ff5f56"/><circle cx="44" cy="19" r="6" fill="#ffbd2e"/><circle cx="64" cy="19" r="6" fill="#27c93f"/>
+<text x="450.0" y="23" text-anchor="middle" class="m" fill="#8b949e" style="font-size:12px">arief@neural-lab: ~/ai-engineering</text>
+<g class="ln" style="animation-delay:0.5s"><text x="28" y="78" class="m"><tspan fill="#7B61FF">$ </tspan><tspan fill="#e6edf3">python train.py --model arief-v2 --epochs ∞</tspan></text></g><g class="ln" style="animation-delay:1.2s"><text x="28" y="104" class="m"><tspan fill="#7B61FF"></tspan><tspan fill="#8b949e">[INFO] Loading dataset: curiosity + coffee + late_nights</tspan></text></g><g class="ln" style="animation-delay:1.9s"><text x="28" y="130" class="m"><tspan fill="#7B61FF"></tspan><tspan fill="#8b949e">[INFO] Initializing transformer (layers=∞, heads=many)</tspan></text></g><g class="ln" style="animation-delay:2.5999999999999996s"><text x="28" y="156" class="m"><tspan fill="#7B61FF"></tspan><tspan fill="#00D4FF">Epoch 01 ━━━━━━━━━━━━━━━━━━━━ loss: 0.842  acc: 71.3%</tspan></text></g><g class="ln" style="animation-delay:3.3s"><text x="28" y="182" class="m"><tspan fill="#7B61FF"></tspan><tspan fill="#00D4FF">Epoch 42 ━━━━━━━━━━━━━━━━━━━━ loss: 0.031  acc: 99.2%</tspan></text></g><g class="ln" style="animation-delay:4.0s"><text x="28" y="208" class="m"><tspan fill="#7B61FF"></tspan><tspan fill="#35F2AF">✔ Skills unlocked: Deep Learning · Computer Vision · Automation</tspan></text></g><g class="ln" style="animation-delay:4.699999999999999s"><text x="28" y="234" class="m"><tspan fill="#7B61FF"></tspan><tspan fill="#35F2AF">✔ Side-quest: Visual Storytelling 📸</tspan></text></g><g class="ln" style="animation-delay:5.3999999999999995s"><text x="28" y="260" class="m"><tspan fill="#7B61FF">$ </tspan><tspan fill="#e6edf3">deploy --to production --vibe &quot;build intelligent systems&quot;</tspan></text></g>
+<rect x="28" y="274" width="9" height="16" fill="#35F2AF" class="c"/>
+</svg>
